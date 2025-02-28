@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Virágbolt",
+        "photo_url": "",
+        "repo_link": "https://github.com/NitroGenStudios/viragbolt",
+        "topics": ["Search", "Filter", "Popover", "Flex"],
+        "site_link": "https://nitrogenstudios.github.io/viragbolt/"
+    },
+    {
+        "id": 2,
+        "title": "Autókölcsönzés",
+        "photo_url": "",
+        "repo_link": "https://github.com/NitroGenStudios/autokolcsonzes",
+        "topics": ["Radio Button", "Select/Option"],
+        "site_link": "https://nitrogenstudios.github.io/autokolcsonzes/"
+    },
+    {
+        "id": 3,
+        "title": "CSS Selector",
+        "photo_url": "",
+        "repo_link": "https://github.com/NitroGenStudios/css-selector",
+        "topics": ["CSS Selectors"],
+        "site_link": "https://nitrogenstudios.github.io/css-selector/"
+    },
+    {
+        "id": 4,
+        "title": "Csengetési Rend",
+        "photo_url": "",
+        "repo_link": "https://github.com/NitroGenStudios/csengetesirend",
+        "topics": ["Radio Button", "Date/Time"],
+        "site_link": "https://nitrogenstudios.github.io/csengetesirend/"
+    },
+    {
+        "id": 5,
+        "title": "Gyümölcsök",
+        "photo_url": "",
+        "repo_link": "https://github.com/NitroGenStudios/gyumolcsok",
+        "topics": ["Select/Option"],
+        "site_link": "https://nitrogenstudios.github.io/gyumolcsok/"
+    },
+    {
+        "id": 6,
+        "title": "Bolygók",
+        "photo_url": "",
+        "repo_link": "https://github.com/NitroGenStudios/bolygok",
+        "topics": ["Animation", "Flex"],
+        "site_link": "https://nitrogenstudios.github.io/bolygok/"
+    },
+    {
+        "id": 7,
+        "title": "Tanfolyamok",
+        "photo_url": "",
+        "repo_link": "https://github.com/NitroGenStudios/felmero",
+        "topics": ["Bootstrap", "Responsive Design"],
+        "site_link": "https://nitrogenstudios.github.io/felmero/"
+    },
+    {
+        "id": 8,
+        "title": "BMI Calculator",
+        "photo_url": "",
+        "repo_link": "https://github.com/NitroGenStudios/BMICalculator",
+        "topics": ["Input:Number"],
+        "site_link": "https://nitrogenstudios.github.io/BMICalculator/"
+    }
+]
