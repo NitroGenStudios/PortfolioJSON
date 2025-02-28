@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Virágbolt",
-        "photo_url": "",
+        "photo_url": "https://res.cloudinary.com/dtdjefua0/image/upload/v1740729390/1_ogz8m0.png",
         "repo_link": "https://github.com/NitroGenStudios/viragbolt",
         "topics": ["Search", "Filter", "Popover", "Flex"],
         "site_link": "https://nitrogenstudios.github.io/viragbolt/"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "title": "Autókölcsönzés",
-        "photo_url": "",
+        "photo_url": "https://res.cloudinary.com/dtdjefua0/image/upload/v1740729389/2_vipo3g.png",
         "repo_link": "https://github.com/NitroGenStudios/autokolcsonzes",
         "topics": ["Radio Button", "Select/Option"],
         "site_link": "https://nitrogenstudios.github.io/autokolcsonzes/"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "title": "CSS Selector",
-        "photo_url": "",
+        "photo_url": "https://res.cloudinary.com/dtdjefua0/image/upload/v1740729388/3_egleie.png",
         "repo_link": "https://github.com/NitroGenStudios/css-selector",
         "topics": ["CSS Selectors"],
         "site_link": "https://nitrogenstudios.github.io/css-selector/"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "title": "Csengetési Rend",
-        "photo_url": "",
+        "photo_url": "https://res.cloudinary.com/dtdjefua0/image/upload/v1740729387/4_agiyop.png",
         "repo_link": "https://github.com/NitroGenStudios/csengetesirend",
         "topics": ["Radio Button", "Date/Time"],
         "site_link": "https://nitrogenstudios.github.io/csengetesirend/"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "title": "Gyümölcsök",
-        "photo_url": "",
+        "photo_url": "https://res.cloudinary.com/dtdjefua0/image/upload/v1740729394/5_o3jb42.png",
         "repo_link": "https://github.com/NitroGenStudios/gyumolcsok",
         "topics": ["Select/Option"],
         "site_link": "https://nitrogenstudios.github.io/gyumolcsok/"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "title": "Bolygók",
-        "photo_url": "",
+        "photo_url": "https://res.cloudinary.com/dtdjefua0/image/upload/v1740729393/6_dpsl27.png",
         "repo_link": "https://github.com/NitroGenStudios/bolygok",
         "topics": ["Animation", "Flex"],
         "site_link": "https://nitrogenstudios.github.io/bolygok/"
@@ -50,7 +50,7 @@
     {
         "id": 7,
         "title": "Tanfolyamok",
-        "photo_url": "",
+        "photo_url": "https://res.cloudinary.com/dtdjefua0/image/upload/v1740729387/7_srnaj5.png",
         "repo_link": "https://github.com/NitroGenStudios/felmero",
         "topics": ["Bootstrap", "Responsive Design"],
         "site_link": "https://nitrogenstudios.github.io/felmero/"
@@ -58,7 +58,7 @@
     {
         "id": 8,
         "title": "BMI Calculator",
-        "photo_url": "",
+        "photo_url": "https://res.cloudinary.com/dtdjefua0/image/upload/v1740729387/8_gmoozj.png",
         "repo_link": "https://github.com/NitroGenStudios/BMICalculator",
         "topics": ["Input:Number"],
         "site_link": "https://nitrogenstudios.github.io/BMICalculator/"
